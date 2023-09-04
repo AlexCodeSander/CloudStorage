@@ -1,0 +1,8 @@
+/.idea/
+/clientCloudStorage/target/
+/commonCloudStorage/target/
+/cloudStorage.iml
+/serverCloudStorage/serverCloudStorage.iml
+/commonCloudStorage/commonCloudStorage.iml
+/serverCloudStorage/target/
+/clientCloudStorage/clientCloudStorage.iml
